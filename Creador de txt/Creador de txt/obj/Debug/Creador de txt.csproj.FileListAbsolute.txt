@@ -1,0 +1,9 @@
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\bin\Debug\Creador de txt.exe.config
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\bin\Debug\Creador de txt.exe
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\bin\Debug\Creador de txt.pdb
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador de txt.csprojResolveAssemblyReference.cache
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador_de_txt.Form1.resources
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador_de_txt.Properties.Resources.resources
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador de txt.csproj.GenerateResource.Cache
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador de txt.exe
+c:\users\luz valenzuela\documents\visual studio 2015\Projects\Creador de txt\Creador de txt\obj\Debug\Creador de txt.pdb
