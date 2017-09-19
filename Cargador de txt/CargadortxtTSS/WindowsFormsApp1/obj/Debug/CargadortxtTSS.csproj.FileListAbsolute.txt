@@ -1,0 +1,10 @@
+G:\CargadortxtTSS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\CargadortxtTSS.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\CargadortxtTSS.csproj.GenerateResource.Cache
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\CreadorTSS\Cargador de txt\CargadortxtTSS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
