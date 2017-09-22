@@ -1,0 +1,35 @@
+/* private void leer(object sender, EventArgs e)
+        {
+            char componente = componente(dir);
+            string[] row = Cargador.TextoToArray();
+            // string[] rows = File.ReadAllLines(dir);
+            string[] encabezado = row[0].Split(',');
+            string a = encabezado[1];
+
+            return encabezado;
+        }*/
+
+      /*  public string[] TextoToArray()
+        {
+            
+            string[] rows = File.ReadAllLines(dir);
+            return rows;
+        }*/
+
+
+//Clase distinta
+
+  public void Cargador_Load(object sender, EventArgs e)
+        {
+             OpenFileDialog abrir = new OpenFileDialog();
+             abrir.Filter = "Text Files (.txt)|*.txt";
+             abrir.ShowDialog();
+         //  string ruta = abrir.FileName;
+           // TextoToArray(ruta);
+           // string[] cabeza =
+            //txtperiodo.Text = TextoToArray(ruta);
+            string[] rows = File.ReadAllLines(abrir.FileName);
+            string[] encabezado = rows[0].Split(',');
+            // string a = string.Concat(encabezado[1]);
+
+            txtproceso.Text = encabezado[1];
